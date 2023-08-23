@@ -1,0 +1,41 @@
+.company-header {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.company-container {
+    background-color: #F7E987;
+    border-radius: 1rem;
+    margin: 3rem auto;
+    max-width: 80%;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    padding: 2rem;
+    box-shadow:
+  6.3px 6.3px 10px rgba(0, 0, 0, 0.05),
+  50px 50px 80px rgba(0, 0, 0, 0.1)
+;
+}
+
+.inner-company-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1.2rem;
+}
+
+/* .about-image{
+    display: inline-block;
+    
+} */
+
+.about-image-section {
+    border-radius: 1rem;
+    margin: auto 0;
+}
+
+.text {
+    font-size: 1.2rem;
+    font-weight: 400;
+}

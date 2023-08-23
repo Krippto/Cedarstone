@@ -1,0 +1,30 @@
+.home-page-header{
+  margin-top: 8rem;
+}
+
+.home-page-service-text{
+  font-weight: 400;
+  text-align: center;
+  width: 80%;
+  margin: 2rem auto 0 auto;
+}
+
+.home-page-service-container{
+  display: flex;
+  flex-direction: column;
+  border: 0.1rem solid #252B48;
+  border-radius: 2rem;
+  padding: 1rem;
+  max-width: 50%;
+  margin: 5rem auto 3rem auto;
+  gap: 1rem;
+}
+
+.home-page-service-head{
+  text-align: center;
+}
+
+.home-page-service-desc{
+  font-size: 1.3rem;
+  text-align: center;
+}

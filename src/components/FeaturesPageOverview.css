@@ -1,0 +1,32 @@
+.features-page-header{
+    margin: 5rem 0 1rem 0;
+}
+
+.features-page-text{
+    max-width: 80%;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 auto 5rem auto;
+}
+
+.features-page-desc-header{
+    text-align: center;
+}
+
+.features-page-desc{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 80%;
+    margin: 3rem auto 3rem auto;
+}
+
+.features-page-desc-text{
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.features-page-button{
+    display: inline-block;
+    margin: 0 auto;
+}

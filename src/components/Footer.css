@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #252B48;
+}
+
+.footer-firstline{
+    display: flex;
+    list-style-type: none;
+}
+
+.footer-firstline-items{
+    text-decoration: none;
+    color: #F7E987
+}
+
+.footer-secondline{
+    color: #F7E987;
+}

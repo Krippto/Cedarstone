@@ -1,0 +1,33 @@
+.home-page-cta-container{
+    display: flex;
+    flex-direction: row;
+    max-width: 80%;
+    margin: 10rem auto 7rem auto;
+    background: linear-gradient(to right, #5B9A8B, #8be0a2);
+    border-radius: 2rem;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.home-page-cta-img{
+    border-radius: 2rem;
+}
+
+.home-page-cta-desc{
+    font-size: 2rem;
+}
+
+.home-page-cta-highlighter{
+    font-weight: 700;
+}
+
+.home-page-cta-clients{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: 80%;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 3rem auto 5rem auto; 
+}

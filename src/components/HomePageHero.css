@@ -1,0 +1,29 @@
+.home-hero-container{
+    margin: 5rem auto; 
+    display: flex;
+    flex-direction: row;
+    max-width: 80%;
+    gap: 3rem;
+}
+
+.home-desc-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-header{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.home-desc{
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.home-buttons{
+    display: inline-flex;
+    flex-direction: row;
+    gap: 1rem;
+}
